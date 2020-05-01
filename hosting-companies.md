@@ -11,6 +11,7 @@ In alphabetical order:
 * [Amimoto](http://megumi-cloud.com/)
 * [Bluehost](http://www.bluehost.com/)
 * [Byte](https://www.byte.nl)
+* [CloudHostWeb](https://www.cloudhostweb.com)
 * [CloudHostWorld](https://www.cloudhostworld.com)
 * [Cloudways](http://cloudways.com)
 * [D9 Hosting](https://d9.hosting)
